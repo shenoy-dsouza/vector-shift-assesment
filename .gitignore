@@ -1,0 +1,6 @@
+package-lock.json
+/backend/venv/
+/frontend/node_modules/
+dump.rdb
+.DS_Store
+*.pyc
